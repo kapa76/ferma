@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/android/playn-android.iml" filepath="$PROJECT_DIR$/android/playn-android.iml" />
       <module fileurl="file://$PROJECT_DIR$/archetype/playn-archetype.iml" filepath="$PROJECT_DIR$/archetype/playn-archetype.iml" />
       <module fileurl="file://$PROJECT_DIR$/bugvm/playn-bugvm.iml" filepath="$PROJECT_DIR$/bugvm/playn-bugvm.iml" />
       <module fileurl="file://$PROJECT_DIR$/core/playn-core.iml" filepath="$PROJECT_DIR$/core/playn-core.iml" />
@@ -13,7 +12,6 @@
       <module fileurl="file://$PROJECT_DIR$/java-swt/playn-java-swt.iml" filepath="$PROJECT_DIR$/java-swt/playn-java-swt.iml" />
       <module fileurl="file://$PROJECT_DIR$/jbox2d/playn-jbox2d.iml" filepath="$PROJECT_DIR$/jbox2d/playn-jbox2d.iml" />
       <module fileurl="file://$PROJECT_DIR$/playn-project.iml" filepath="$PROJECT_DIR$/playn-project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/robovm/playn-robovm.iml" filepath="$PROJECT_DIR$/robovm/playn-robovm.iml" />
       <module fileurl="file://$PROJECT_DIR$/scene/playn-scene.iml" filepath="$PROJECT_DIR$/scene/playn-scene.iml" />
       <module fileurl="file://$PROJECT_DIR$/tests/playn-tests.iml" filepath="$PROJECT_DIR$/tests/playn-tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/tests/assets/playn-tests-assets.iml" filepath="$PROJECT_DIR$/tests/assets/playn-tests-assets.iml" />

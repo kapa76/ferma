@@ -25,7 +25,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="playn-android" />
         <module name="playn-archetype" />
         <module name="playn-bugvm" />
         <module name="playn-core" />
@@ -35,7 +34,6 @@
         <module name="playn-java-lwjgl2" />
         <module name="playn-java-swt" />
         <module name="playn-jbox2d" />
-        <module name="playn-robovm" />
         <module name="playn-scene" />
         <module name="playn-tests-assets" />
         <module name="playn-tests-core" />

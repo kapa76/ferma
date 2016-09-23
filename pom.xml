@@ -30,7 +30,6 @@
   </prerequisites>
 
   <modules>
-    <module>android</module>
     <module>archetype</module>
     <module>core</module>
     <module>html</module>
@@ -39,7 +38,6 @@
     <module>java-lwjgl2</module>
     <module>java-swt</module>
     <module>jbox2d</module>
-    <module>robovm</module>
     <module>bugvm</module>
     <module>scene</module>
     <module>webgl</module>
